@@ -3,6 +3,11 @@ package InfoPlatform.Observer;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @Author cyh
+ * @Date 2020/10/22
+ */
+
 
 /**
  * 被观察的类，邀约的信息

@@ -1,5 +1,9 @@
 package InfoPlatform.Factory;
 
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 
 //约跑步的信息
 public class JogMessage extends Message{

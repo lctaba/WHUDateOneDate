@@ -1,5 +1,9 @@
 package InfoPlatform.Factory;
 
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 
 //信息工厂
 public class MessageFactory {

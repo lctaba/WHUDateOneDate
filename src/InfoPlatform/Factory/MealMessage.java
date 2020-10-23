@@ -1,6 +1,11 @@
 package InfoPlatform.Factory;
 
 
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
+
 //具体类：约饭的信息
 public class MealMessage extends Message{
 

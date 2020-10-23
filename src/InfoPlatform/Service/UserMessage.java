@@ -5,8 +5,12 @@ import InfoPlatform.Factory.Message;
 import InfoPlatform.Factory.MessageFactory;
 import InfoPlatform.Strategy.MessageContext;
 
-public class UserMessage implements MessageService{
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 
+public class UserMessage implements MessageService{
 
 
     /**

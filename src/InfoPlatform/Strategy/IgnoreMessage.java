@@ -1,7 +1,10 @@
 package InfoPlatform.Strategy;
 
 import InfoPlatform.Factory.Message;
-
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 
 /**
  * 忽略信息

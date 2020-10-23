@@ -1,6 +1,11 @@
 package InfoPlatform.Factory;
 
 
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
+
 //约学习的信息
 public class StudyMessage extends Message{
     /**

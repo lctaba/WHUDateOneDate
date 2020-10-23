@@ -1,5 +1,10 @@
 package Account.Strategy;
 
+
+/**
+ * @Author cyh
+ * @Date 2020/10/22
+ */
 public class Logout implements UserStrategy{
     /**
      * 登出

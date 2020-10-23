@@ -1,6 +1,11 @@
 package Account.Strategy;
 
 
+
+/**
+ * @Author cyh
+ * @Date 2020/10/22
+ */
 import Account.User;
 
 public class Register implements UserStrategy{

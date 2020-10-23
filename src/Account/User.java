@@ -1,5 +1,10 @@
 package Account;
 
+
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 public class User {
     public User(String name, String password){
         this.name = name;

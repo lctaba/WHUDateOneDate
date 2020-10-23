@@ -1,5 +1,10 @@
 package InfoPlatform.Observer;
 
+/**
+ * @Author cyh
+ * @Date 2020/10/22
+ */
+
 
 //观察者
 public interface Observer {

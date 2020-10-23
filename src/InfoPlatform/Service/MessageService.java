@@ -3,7 +3,10 @@ package InfoPlatform.Service;
 import InfoPlatform.Factory.Message;
 import InfoPlatform.Factory.MessageFactory;
 import InfoPlatform.Strategy.MessageContext;
-
+/**
+ * @Author cyh
+ * @Date 2020/10/17
+ */
 
 /**
  * 封装了发布信息，浏览信息，以及信息操作三个方法
